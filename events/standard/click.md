@@ -3,7 +3,6 @@ These events will be automatically detected and fired for any <a> tag clicked by
   1. A non anchor tag is used as a link.
   2. More information is needed than what [GA4 tracks by default](https://support.google.com/analytics/answer/9234069?hl=en).
   3. A specific link needs to be specified as a CTA for conversion-tracking purposes.
-  4. In the case of Mothers specifically, they are sorting clicks by button, video, cta, footer nav, menu nav, product images, and product titles. This misc. information isn't included by default.
 
 For example, if a <button> tag is used in combination with Javascript to represent a download link, you would need to add these attributes to fire the event.
 
