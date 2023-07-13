@@ -14,7 +14,7 @@ Typically, you'll see that the SDR has a greater number of events when compared 
   2. The SDR documents the GTM and GA4 setup while this repository documents the datalayer. Some GA4 events are subsets of a single datalayer event. They are listed separately in the SDR so the analytics engineer knows to make a unique tag and trigger for it, but not in the datalayer specs because it would be redundant.
 
 ## Other Resources
-[Here](https://docs.google.com/spreadsheets/d/1lH_sgRfepOMdfn0YNqHnx_PD9Y_PVBbqZ75zgTVMuSQ/edit#gid=369713555) is where you will find the current SDR template.
+[Here](https://docs.google.com/spreadsheets/d/1xvkQ5qzOF62714icB86zZJFLkiKPrpj_mI0FLI4_syg/edit#gid=0) is where you will find the current SDR template.
 
 [Go here](https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm) to access Google's official developer reference for recommended events. Each event's title will have a link to this reference as appropriate. Some of the events in this documentation are custom and will therefore not have a link to the developer reference.
 
